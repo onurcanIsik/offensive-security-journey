@@ -20,7 +20,7 @@ sort [filename]                             # sort the all lines in a one file a
 
 ```bash
 curl [URL]     #download the html of the website and show us in the terminal
-curl -I [URL]. # The command just give us http header with status codes
+curl -I [URL] # The command just give us http header with status codes
 nmap -sV [IP_ADDRESS]  # Show us which port are open and what service is running on them
 gobuster dir -u [URL] # The command give hidden line and endpoints like /admin /login etc this like journal on website
 gobuster dir -u [URL] -w [wordlist - /usr/share/wordlists/dirb/common.txt] # this is almost same before command but we just gie a wordlist for this command for try this words.
