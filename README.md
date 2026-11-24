@@ -17,3 +17,11 @@ learn each day: concepts, the exact commands I run, and the scripts I write.
 ## Tools
 
 - [`blind_sql.py`](tools/blind_sql.py) — Blind SQL injection password extractor
+
+## Completed
+
+- [OverTheWire: Bandit](https://overthewire.org/wargames/bandit/) — Level 0 → 34, completed on 2026-11-20
+
+## In Progress
+
+- [OverTheWire: Natas](https://overthewire.org/wargames/natas/) — web security wargame, started on 2026-11-24
